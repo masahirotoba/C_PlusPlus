@@ -12,7 +12,7 @@ class Studnet{
 };
 
 int main (){
-    class Studnet Tanaka;
+    Studnet Tanaka;
     Tanaka.num = 10;
     Tanaka.year = 12;
     Tanaka.show();
